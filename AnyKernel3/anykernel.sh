@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=DFC Kernel by Sairam60
+kernel.string=DFC Kernel by Sairam60 (Upstreamed by COSMIC)
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
