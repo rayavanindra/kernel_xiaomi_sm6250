@@ -55,6 +55,7 @@ obj-$(CONFIG_SRAM_EXEC)		+= sram-exec.o
 obj-y				+= mic/
 obj-$(CONFIG_GENWQE)		+= genwqe/
 obj-$(CONFIG_HDCP_QSEECOM)	+= hdcp_qseecom.o
+obj-$(CONFIG_KPROFILES)     += kprofiles/
 obj-$(CONFIG_HDCP_QSEECOM)	+= msm_hdcp.o
 obj-$(CONFIG_QSEECOM)		+= qseecom.o
 obj-$(CONFIG_PROFILER)      += profiler.o
